@@ -24,6 +24,19 @@ Welcome to my GitHub profile!
 
 ---
 
+## 🧪 Internships
+
+- 🏢 **Indian Oil Corporation Limited (IOCL)** – *Data Science Intern*  
+  *June 2025 – August 2025*  
+  Developing an AI model to identify and flag negative news articles about IOCL using NLP techniques. The project involved collecting news data, performing sentiment analysis, and building a pipeline to detect reputation-sensitive content using Python and machine learning libraries.
+
+- 🏢 **Ganishka Technology** – *AI/ML Intern*  
+  *July 2024 – December 2024*  
+  Worked on NLP and machine learning-based solutions as part of the product team.  
+  **Key Contribution:** Developed the [Resume Screening System](https://github.com/AditBiramne/Resume-Screening-System) – a Flask-based application using `spaCy` to extract and evaluate key candidate information from resumes, streamlining the recruitment process.
+
+---
+
 ## 🚀 Skills
 
 - **Languages & Tools:** Python, SQL, C/C++ (Basic), Power BI, Tableau  
