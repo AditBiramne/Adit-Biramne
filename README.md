@@ -37,30 +37,40 @@ Welcome to my GitHub profile!
 
 Here are some of the projects I've worked on:
 
-- 📬 [SVM-based Email Spam Classifier](https://github.com/AditBiramne/SVM-based-Email-Spam-Classifier)  
-  A machine learning system using Support Vector Machines to classify SMS messages as spam or not.
-
-- 🎬 [Movie Recommendation System](https://github.com/AditBiramne/Movie-Recommendation-System)  
-  Content-based recommender system using cosine similarity, with a simple Tkinter GUI.
-
-- 📊 [Academic Evaluation System](https://github.com/AditBiramne/Academic-Evaluation-System)  
-  Flask web app for evaluating and managing student performance.
+- 📰 [AI-Powered News Synthesizer](https://github.com/AditBiramne/News-Synthesizer)  
+  Colab + BART-based app that summarizes multi-source news with a responsive frontend hosted via Google Drive
 
 - 🐦 [Twitter Sentiment Analysis for Stock Forecasting](https://github.com/AditBiramne/-Twitter-Sentiment-Analysis-for-Stock-Market-Forecasting)  
   Uses LSTM and tweet sentiment to forecast stock performance.
 
-- 🍷 [Wine Quality Prediction](https://github.com/AditBiramne/Wine-Quality-Prediction-Using-Logistic-Regression)  
-  Predicts white wine quality using Logistic Regression on chemical attributes.
-
-- 🌸 [Artificial Neural Network (Iris Dataset)](https://github.com/AditBiramne/Artificial-Neural-Network-Implementation)  
-  Classifies iris flowers using a custom ANN built with Keras.
-
 - 🛒 [Product Recommendation for Walmart Products](https://github.com/AditBiramne/Product-Recommendation-for-Walmart-Products)  
   TF-IDF and cosine similarity-based recommender for e-commerce products.
+
+- 🎬 [Movie Recommendation System](https://github.com/AditBiramne/Movie-Recommendation-System)  
+  Content-based recommender system using cosine similarity, with a simple Tkinter GUI.
+
+- 🏠 [Housing Price Prediction using AdaBoost](https://github.com/AditBiramne/Housing-Price-Prediction-using-AdaBoost)  
+  Regression model using AdaBoost to predict housing prices based on key features and outlier handling
+
+- 📬 [SVM-based Email Spam Classifier](https://github.com/AditBiramne/SVM-based-Email-Spam-Classifier)  
+  A machine learning system using Support Vector Machines to classify SMS messages as spam or not.
+
+- ✍️ [Autocorrect System using Naive Bayes](https://github.com/AditBiramne/Autocorrect-System-using-Naive-Bayes)  
+  NLP-based autocorrect system that uses Naive Bayes for predicting and correcting misspelled words
 
 - 📂 [Resume Screening System](https://github.com/AditBiramne/Resume-Screening-System)  
   Flask + spaCy app that extracts info from resumes to assist recruiters.
 
+- 📊 [Academic Evaluation System](https://github.com/AditBiramne/Academic-Evaluation-System)  
+  Flask web app for evaluating and managing student performance.
+
+- 🌸 [Artificial Neural Network (Iris Dataset)](https://github.com/AditBiramne/Artificial-Neural-Network-Implementation)  
+  Classifies iris flowers using a custom ANN built with Keras.
+
+- 🍷 [Wine Quality Prediction](https://github.com/AditBiramne/Wine-Quality-Prediction-Using-Logistic-Regression)  
+  Predicts white wine quality using Logistic Regression on chemical attributes.
+
+  
 ---
 
 ## 📫 Let's Connect!
