@@ -38,17 +38,15 @@ Welcome to my GitHub profile!
 
 ## 🧾 Roles & Contributions
 
--## 🧢 Ex NSS Event Team Head  
-*July 2024 – June 2025*  
-- Led the NSS event management team, organizing awareness drives, social outreach events, and technical activities.  
-- Handled end-to-end planning, logistics, and team coordination for large-scale programs.  
-- Strengthened leadership, communication, and multitasking skills through on-ground execution.
+- 🧢 **Ex NSS Event Team Head** *(July 2024 – June 2025)*  
+  - Led the NSS event management team, organizing awareness drives, social outreach events, and technical activities.  
+  - Handled end-to-end planning, logistics, and team coordination for large-scale programs.  
+  - Strengthened leadership, communication, and multitasking skills through on-ground execution.
 
-- ## 🤝 NSS Volunteer  
-*July 2023 – June 2024*  
-- Contributed over 120+ hours to community service activities such as cleanliness drives, blood donation camps, and awareness campaigns.  
-- Actively participated in team-based initiatives promoting social responsibility and civic engagement.  
-- Developed teamwork, empathy, and public engagement skills.
+- 🤝 **NSS Volunteer** *(July 2023 – June 2024)*  
+  - Contributed over 120+ hours to community service activities such as cleanliness drives, blood donation camps, and awareness campaigns.  
+  - Actively participated in team-based initiatives promoting social responsibility and civic engagement.  
+  - Developed teamwork, empathy, and public engagement skills.
 
 ---
 
