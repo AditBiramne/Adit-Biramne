@@ -8,7 +8,8 @@ Welcome to my GitHub profile!
 
 ## 🧑‍💻 About Me
 
-- 🎓 I'm a 4th Year Computer Engineering student at MGM College of Engineering, University of Mumbai  
+- 🎓 I'm a 4th Year Computer Engineering student at MGM College of Engineering, University of Mumbai
+- 🏢 Currently interning on-site at Indian Oil Corporation Ltd. (IOCL) in the Networks & SAP Department, gaining hands-on experience in enterprise infrastructure and ERP systems
 - 🔍 Passionate about Artificial Intelligence, Machine Learning, and Data Science  
 - 🐍 Python is my go-to language for building intelligent solutions  
 - 📊 I enjoy working with data using Pandas, NumPy, Seaborn, and Scikit-learn  
